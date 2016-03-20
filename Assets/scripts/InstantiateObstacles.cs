@@ -17,7 +17,7 @@ public class InstantiateObstacles : MonoBehaviour {
         
             if (temps>=waitTime)
             {
-            (Instantiate(pref[Random.Range(0, pref.Length)] , new Vector3(Random.Range(-1.5F, 1.5F), 0.2f, reference.transform.position.z + Random.Range(5.0F, 10.0F)), Quaternion.identity) as  GameObject).transform.parent = this.transform; ;
+            (Instantiate(pref[Random.Range(0, pref.Length)] , new Vector3(Random.Range(-1.5F, 1.5F), 0.2f, reference.transform.position.z + Random.Range(5.0F, 10.0F)), Quaternion.identity) as  GameObject).transform.parent = this.transform; 
 
             temps = 0.0f;
             }
