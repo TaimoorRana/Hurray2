@@ -3,6 +3,7 @@ using System.Collections;
 
 public class cameraFollow : MonoBehaviour {
 	public GameObject bird;
+    public float cameradistance;
 	// Use this for initialization
 	void Start () {
 	
@@ -13,7 +14,7 @@ public class cameraFollow : MonoBehaviour {
 
 		Vector3 pos = transform.position;
 
-		pos.z = bird.transform.position.z-3;
+		pos.z = bird.transform.position.z- cameradistance;
 
 		transform.position = pos;
 	

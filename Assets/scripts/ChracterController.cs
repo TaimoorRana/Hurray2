@@ -30,6 +30,9 @@ public class ChracterController : MonoBehaviour {
         anim.SetFloat("speedforward", Mathf.Abs(move));
         anim.SetFloat("speedright", Mathf.Abs(movee));
 
+
+        Debug.Log(Mathf.Abs(move));
+
         if (move != 0)
         {
 
@@ -56,11 +59,6 @@ public class ChracterController : MonoBehaviour {
 
 
 
-    }
-	void OnCollisionEnter(Collision coll) {
-        if (coll.gameObject.tag == "Wire"){
-            Destroy(coll.gameObject); 
-        }  
     }
 
     void flip()
