@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: a6e0de48fc73cd84f9d16285c3b98f51
+timeCreated: 1458433762
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: obstacles_0
+    21300002: obstacles_1
+    21300004: obstacles_2
+    21300006: obstacles_3
+    21300008: obstacles_4
+    21300010: obstacles_5
+    21300012: obstacles_6
+    21300014: obstacles_7
+    21300016: obstacles_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: obstacles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 82
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -31}
+        - {x: 8, y: -51}
+        - {x: 75, y: -51}
+        - {x: 75, y: -27}
+        - {x: 73, y: -17}
+        - {x: 47, y: -5}
+        - {x: 30, y: -5}
+        - {x: 13, y: -13}
+    - name: obstacles_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 120
+        width: 82
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: -1}
+        - {x: 37, y: -1}
+        - {x: 13, y: -29}
+        - {x: 13, y: -55}
+        - {x: 67, y: -55}
+        - {x: 70, y: -47}
+        - {x: 71, y: -44}
+        - {x: 71, y: -41}
+    - name: obstacles_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 120
+        width: 82
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -4}
+        - {x: 0, y: -23}
+        - {x: 0, y: -47}
+        - {x: 3, y: -52}
+        - {x: 64, y: -52}
+        - {x: 82, y: -49}
+        - {x: 82, y: -36}
+        - {x: 58, y: -4}
+    - name: obstacles_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 82
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -5}
+        - {x: 10, y: -35}
+        - {x: 10, y: -50}
+        - {x: 11, y: -51}
+        - {x: 68, y: -51}
+        - {x: 72, y: -48}
+        - {x: 72, y: -33}
+        - {x: 68, y: -5}
+    - name: obstacles_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 60
+        width: 82
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -9}
+        - {x: 12, y: -18}
+        - {x: 12, y: -42}
+        - {x: 17, y: -48}
+        - {x: 56, y: -48}
+        - {x: 70, y: -43}
+        - {x: 70, y: -24}
+        - {x: 64, y: -9}
+    - name: obstacles_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 60
+        width: 82
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -45}
+        - {x: 14, y: -47}
+        - {x: 24, y: -54}
+        - {x: 42, y: -54}
+        - {x: 69, y: -50}
+        - {x: 69, y: -21}
+        - {x: 67, y: -13}
+        - {x: 56, y: -2}
+        - {x: 30, y: -2}
+        - {x: 13, y: -7}
+    - name: obstacles_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -49}
+        - {x: 18, y: -54}
+        - {x: 59, y: -54}
+        - {x: 69, y: -52}
+        - {x: 69, y: -31}
+        - {x: 67, y: -26}
+        - {x: 57, y: -3}
+        - {x: 32, y: -3}
+        - {x: 13, y: -19}
+    - name: obstacles_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 0}
+        - {x: 11, y: -19}
+        - {x: 2, y: -39}
+        - {x: 2, y: -58}
+        - {x: 44, y: -58}
+        - {x: 54, y: -55}
+        - {x: 71, y: -21}
+        - {x: 71, y: 0}
+    - name: obstacles_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -1}
+        - {x: 32, y: -1}
+        - {x: 11, y: -28}
+        - {x: 11, y: -47}
+        - {x: 24, y: -55}
+        - {x: 56, y: -55}
+        - {x: 64, y: -54}
+        - {x: 70, y: -47}
+        - {x: 70, y: -30}
+        - {x: 67, y: -12}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
