@@ -97,4 +97,10 @@ public class MoveTheKids : MonoBehaviour {
         transform.localScale = thescale;
 
     }
+
+	void OnCollisionEnter(Collision coll) {
+        if (coll.gameObject.tag == "Wire"){
+            Destroy(gameObject); 
+        }  
+    }
 }
