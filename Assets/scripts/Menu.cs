@@ -8,6 +8,7 @@ public class Menu : MonoBehaviour {
     public Button PauseButton;
     public Button ExitButton2;
     public Button reprise;
+    bool toggle = false;
 
     void Start()
     {
@@ -33,9 +34,16 @@ public class Menu : MonoBehaviour {
     }
 
     void Update(){
-    	if(Input.GetKeyDown(KeyCode.A)){
-			ExitButton2.gameObject.SetActive(true);
-            PauseButton.gameObject.SetActive(true);
+       
+    	if(Input.GetKeyDown(KeyCode.Escape)){
+    		toggle = !toggle;
+  			if(toggle){
+				ExitButton2.gameObject.SetActive(true);
+	            PauseButton.gameObject.SetActive(true);
+            }else{
+				ExitButton2.gameObject.SetActive(false);
+	            PauseButton.gameObject.SetActive(false);
+            }
     	}
     }
     public void Restart()
