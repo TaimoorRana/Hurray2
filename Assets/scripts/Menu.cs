@@ -19,6 +19,7 @@ public class Menu : MonoBehaviour {
         GameObject.FindWithTag("StartButton").SetActive(false);
         GameObject.FindWithTag("JoinButton").SetActive(false);
         GameObject.FindWithTag("ExitButton").SetActive(false);
+        GameObject.FindWithTag("URL").SetActive(false);
         ExitButton2.gameObject.SetActive(true);
         PauseButton.gameObject.SetActive(true);
     }
