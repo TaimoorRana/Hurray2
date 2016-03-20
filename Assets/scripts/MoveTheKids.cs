@@ -12,6 +12,7 @@ public class MoveTheKids : MonoBehaviour {
     bool facingright = true;
     bool move = false;
     bool ismovig = false;
+    bool win = false;
     Animator anim;
 
     // Use this for initialization
@@ -21,9 +22,9 @@ public class MoveTheKids : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-       // float move1 = Input.GetAxis("Vertical");
+        // float move1 = Input.GetAxis("Vertical");
         //float movee = Input.GetAxis("Horizontal");
-
+        if (!win) { 
 
         anim.SetFloat("moveRight", Mathf.Abs(GetComponent<Rigidbody>().velocity.x));
       //  anim.SetFloat("moveRight", Mathf.Abs(movee));
@@ -85,7 +86,7 @@ public class MoveTheKids : MonoBehaviour {
 
         }
 
-
+        }
 
     }
 
@@ -101,6 +102,12 @@ public class MoveTheKids : MonoBehaviour {
 	void OnCollisionEnter(Collision coll) {
         if (coll.gameObject.tag == "Wire"){
             Destroy(gameObject); 
-        }  
+        }
+        if (coll.gameObject.tag == "finishtag")
+        {
+            win = true;
+           // anim.SetBool("win", win);
+
+        }
     }
 }
