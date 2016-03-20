@@ -1,9 +1,73 @@
 fileFormatVersion: 2
 guid: 4890d578f4f3db247b454f1d29028bfb
-timeCreated: 1458449722
+timeCreated: 1458453587
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: BlueTownv2_byLunarea_0
+    21300002: BlueTownv2_byLunarea_1
+    21300004: BlueTownv2_byLunarea_2
+    21300006: BlueTownv2_byLunarea_3
+    21300008: BlueTownv2_byLunarea_4
+    21300010: BlueTownv2_byLunarea_5
+    21300012: BlueTownv2_byLunarea_6
+    21300014: BlueTownv2_byLunarea_7
+    21300016: BlueTownv2_byLunarea_8
+    21300018: BlueTownv2_byLunarea_9
+    21300020: BlueTownv2_byLunarea_10
+    21300022: BlueTownv2_byLunarea_11
+    21300024: BlueTownv2_byLunarea_12
+    21300026: BlueTownv2_byLunarea_13
+    21300028: BlueTownv2_byLunarea_14
+    21300030: BlueTownv2_byLunarea_15
+    21300032: BlueTownv2_byLunarea_16
+    21300034: BlueTownv2_byLunarea_17
+    21300036: BlueTownv2_byLunarea_18
+    21300038: BlueTownv2_byLunarea_19
+    21300040: BlueTownv2_byLunarea_20
+    21300042: BlueTownv2_byLunarea_21
+    21300044: BlueTownv2_byLunarea_22
+    21300046: BlueTownv2_byLunarea_23
+    21300048: BlueTownv2_byLunarea_24
+    21300050: BlueTownv2_byLunarea_25
+    21300052: BlueTownv2_byLunarea_26
+    21300054: BlueTownv2_byLunarea_27
+    21300056: BlueTownv2_byLunarea_28
+    21300058: BlueTownv2_byLunarea_29
+    21300060: BlueTownv2_byLunarea_30
+    21300062: BlueTownv2_byLunarea_31
+    21300064: BlueTownv2_byLunarea_32
+    21300066: BlueTownv2_byLunarea_33
+    21300068: BlueTownv2_byLunarea_34
+    21300070: BlueTownv2_byLunarea_35
+    21300072: BlueTownv2_byLunarea_36
+    21300074: BlueTownv2_byLunarea_37
+    21300076: BlueTownv2_byLunarea_38
+    21300078: BlueTownv2_byLunarea_39
+    21300080: BlueTownv2_byLunarea_40
+    21300082: BlueTownv2_byLunarea_41
+    21300084: BlueTownv2_byLunarea_42
+    21300086: BlueTownv2_byLunarea_43
+    21300088: BlueTownv2_byLunarea_44
+    21300090: BlueTownv2_byLunarea_45
+    21300092: BlueTownv2_byLunarea_46
+    21300094: BlueTownv2_byLunarea_47
+    21300096: BlueTownv2_byLunarea_48
+    21300098: BlueTownv2_byLunarea_49
+    21300100: BlueTownv2_byLunarea_50
+    21300102: BlueTownv2_byLunarea_51
+    21300104: BlueTownv2_byLunarea_52
+    21300106: BlueTownv2_byLunarea_53
+    21300108: BlueTownv2_byLunarea_54
+    21300110: BlueTownv2_byLunarea_55
+    21300112: BlueTownv2_byLunarea_56
+    21300114: BlueTownv2_byLunarea_57
+    21300116: BlueTownv2_byLunarea_58
+    21300118: BlueTownv2_byLunarea_59
+    21300120: BlueTownv2_byLunarea_60
+    21300122: BlueTownv2_byLunarea_61
+    21300124: BlueTownv2_byLunarea_62
+    21300126: BlueTownv2_byLunarea_63
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +94,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,18 +102,944 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 33.8
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: BlueTownv2_byLunarea_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 160
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -50.5}
+        - {x: 80, y: 0.5}
+        - {x: 53, y: 50.5}
+        - {x: -80, y: 50.5}
+        - {x: -80, y: -50.5}
+      - - {x: -4, y: 50.5}
+        - {x: -4, y: 17.5}
+        - {x: -1, y: 14.5}
+        - {x: 69, y: 14.5}
+        - {x: 72, y: 17.5}
+        - {x: 72, y: 50.5}
+    - name: BlueTownv2_byLunarea_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 451
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 20}
+        - {x: -36, y: -20}
+        - {x: 36, y: -20}
+        - {x: 36, y: 20}
+    - name: BlueTownv2_byLunarea_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 352
+        width: 71
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 79.5}
+        - {x: -35.5, y: 50.5}
+        - {x: -35.5, y: -79.5}
+        - {x: 35.5, y: -79.5}
+        - {x: 35.5, y: 51.5}
+        - {x: 7.5, y: 79.5}
+    - name: BlueTownv2_byLunarea_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 352
+        width: 71
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 79.5}
+        - {x: -35.5, y: 50.5}
+        - {x: -35.5, y: -79.5}
+        - {x: 35.5, y: -79.5}
+        - {x: 35.5, y: 51.5}
+        - {x: 7.5, y: 79.5}
+    - name: BlueTownv2_byLunarea_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 33
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 64}
+        - {x: -16.5, y: 57}
+        - {x: -16.5, y: -64}
+        - {x: 15.5, y: -64}
+        - {x: 16.5, y: -57}
+        - {x: 16.5, y: 58}
+        - {x: 7.5, y: 64}
+    - name: BlueTownv2_byLunarea_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 416
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 48}
+        - {x: -19, y: 35}
+        - {x: -19, y: -48}
+        - {x: 19, y: -48}
+        - {x: 19, y: 35}
+        - {x: 6, y: 48}
+    - name: BlueTownv2_byLunarea_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 455
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 16.5}
+        - {x: -20.5, y: -16.5}
+        - {x: 20.5, y: -16.5}
+        - {x: 20.5, y: 11.5}
+        - {x: 19.5, y: 16.5}
+    - name: BlueTownv2_byLunarea_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 386
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 386
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 391
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 23.5}
+        - {x: -32, y: -22.5}
+        - {x: -31, y: -23.5}
+        - {x: 32, y: -23.5}
+        - {x: 32, y: 23.5}
+    - name: BlueTownv2_byLunarea_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 303
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 32}
+        - {x: -16, y: 20}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 20}
+        - {x: 6, y: 32}
+    - name: BlueTownv2_byLunarea_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 300
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 33.5}
+        - {x: -20.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 20.5, y: 27.5}
+        - {x: 5.5, y: 33.5}
+    - name: BlueTownv2_byLunarea_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 354
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 355
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 319
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 34}
+        - {x: -32, y: -34}
+        - {x: 30, y: -34}
+        - {x: 32, y: -33}
+        - {x: 32, y: 34}
+    - name: BlueTownv2_byLunarea_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 268
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 37}
+        - {x: -18, y: 37}
+        - {x: -33, y: 30}
+        - {x: -33, y: -33}
+        - {x: -26, y: -37}
+        - {x: 30, y: -37}
+        - {x: 33, y: -33}
+        - {x: 33, y: 28}
+    - name: BlueTownv2_byLunarea_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 271
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 34.5}
+        - {x: -24.5, y: 34.5}
+        - {x: -33.5, y: 14.5}
+        - {x: -33.5, y: -28.5}
+        - {x: -28.5, y: -34.5}
+        - {x: 28.5, y: -34.5}
+        - {x: 33.5, y: -33.5}
+        - {x: 33.5, y: 25.5}
+        - {x: 25.5, y: 29.5}
+    - name: BlueTownv2_byLunarea_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 256
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 47}
+        - {x: 2.5, y: 40}
+        - {x: 0.5, y: 8}
+        - {x: 0.5, y: -2}
+        - {x: 0.5, y: 41}
+        - {x: -9.5, y: 47}
+        - {x: -26.5, y: 47}
+        - {x: -30.5, y: 39}
+        - {x: -30.5, y: -47}
+        - {x: 30.5, y: -47}
+        - {x: 30.5, y: 47}
+    - name: BlueTownv2_byLunarea_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 288
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 320
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 288
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 264
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 25}
+        - {x: -48, y: -22}
+        - {x: -43, y: -25}
+        - {x: 44, y: -25}
+        - {x: 48, y: -22}
+        - {x: 48, y: 25}
+    - name: BlueTownv2_byLunarea_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 260
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 260
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 260
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 260
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 260
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 228
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_40
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_43
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 228
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 98.5}
+        - {x: -80, y: 98.5}
+        - {x: -80, y: -64.5}
+        - {x: -79, y: -77.5}
+        - {x: -61, y: -98.5}
+        - {x: -46, y: -98.5}
+        - {x: -27, y: -77.5}
+        - {x: 80, y: -15.5}
+        - {x: 80, y: 47.5}
+      - - {x: -12, y: -68.5}
+        - {x: -17, y: -73.5}
+        - {x: -17, y: -88.5}
+        - {x: -9, y: -98.5}
+        - {x: 11, y: -98.5}
+        - {x: 13, y: -97.5}
+        - {x: 13, y: -70.5}
+        - {x: 8, y: -68.5}
+      - - {x: 16, y: -70.5}
+        - {x: 16, y: -94.5}
+        - {x: 22, y: -98.5}
+        - {x: 41, y: -98.5}
+        - {x: 46, y: -89.5}
+        - {x: 46, y: -70.5}
+      - - {x: -15, y: -37.5}
+        - {x: -15, y: -63.5}
+        - {x: -13, y: -65.5}
+        - {x: 7, y: -65.5}
+        - {x: 15, y: -62.5}
+        - {x: 15, y: -37.5}
+      - - {x: 53, y: -36.5}
+        - {x: 48, y: -40.5}
+        - {x: 48, y: -61.5}
+        - {x: 53, y: -64.5}
+        - {x: 71, y: -64.5}
+        - {x: 78, y: -58.5}
+        - {x: 78, y: -37.5}
+        - {x: 77, y: -36.5}
+      - - {x: 24, y: -37.5}
+        - {x: 17, y: -46.5}
+        - {x: 17, y: -58.5}
+        - {x: 18, y: -61.5}
+        - {x: 44, y: -61.5}
+        - {x: 47, y: -50.5}
+        - {x: 47, y: -39.5}
+        - {x: 40, y: -37.5}
+      - - {x: 72, y: -7.5}
+        - {x: 55, y: -7.5}
+        - {x: 49, y: -9.5}
+        - {x: 49, y: -26.5}
+        - {x: 50, y: -31.5}
+        - {x: 70, y: -31.5}
+        - {x: 79, y: -23.5}
+        - {x: 79, y: -10.5}
+      - - {x: -5, y: 98.5}
+        - {x: -5, y: 90.5}
+        - {x: 8, y: 71.5}
+        - {x: 23, y: 71.5}
+        - {x: 38, y: 89.5}
+        - {x: 38, y: 95.5}
+        - {x: 35, y: 98.5}
+      - - {x: 48, y: 98.5}
+        - {x: 48, y: 80.5}
+        - {x: 50, y: 78.5}
+        - {x: 79, y: 78.5}
+        - {x: 80, y: 79.5}
+        - {x: 80, y: 98.5}
+    - name: BlueTownv2_byLunarea_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 172
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20.5}
+        - {x: -18, y: 19.5}
+        - {x: -22, y: 12.5}
+        - {x: -22, y: -14.5}
+        - {x: -8, y: -20.5}
+        - {x: 16, y: -20.5}
+        - {x: 22, y: -8.5}
+        - {x: 22, y: 17.5}
+        - {x: 15, y: 20.5}
+    - name: BlueTownv2_byLunarea_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 179
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 64
+        width: 71
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 79.5}
+        - {x: -35.5, y: 50.5}
+        - {x: -35.5, y: -79.5}
+        - {x: 35.5, y: -79.5}
+        - {x: 35.5, y: 51.5}
+        - {x: 7.5, y: 79.5}
+    - name: BlueTownv2_byLunarea_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 64
+        width: 71
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 79.5}
+        - {x: -35.5, y: 50.5}
+        - {x: -35.5, y: -79.5}
+        - {x: 35.5, y: -79.5}
+        - {x: 35.5, y: 51.5}
+        - {x: 7.5, y: 79.5}
+    - name: BlueTownv2_byLunarea_49
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 178
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 159
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 17.5}
+        - {x: -32.5, y: -17.5}
+        - {x: 32.5, y: -17.5}
+        - {x: 32.5, y: 17.5}
+    - name: BlueTownv2_byLunarea_51
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 192
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 33
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 48}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: -48}
+        - {x: 16.5, y: -48}
+        - {x: 16.5, y: 36}
+        - {x: 6.5, y: 48}
+    - name: BlueTownv2_byLunarea_53
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 114
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 23.5}
+        - {x: -33, y: -23.5}
+        - {x: 33, y: -23.5}
+        - {x: 33, y: 23.5}
+    - name: BlueTownv2_byLunarea_55
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 134
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_56
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 70
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_57
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 52
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 23.5}
+        - {x: -33, y: -23.5}
+        - {x: 33, y: -23.5}
+        - {x: 33, y: 21.5}
+        - {x: 26, y: 23.5}
+    - name: BlueTownv2_byLunarea_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_60
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 31.5}
+        - {x: -20.5, y: -13.5}
+        - {x: -10.5, y: -31.5}
+        - {x: 10.5, y: -31.5}
+        - {x: 20.5, y: -4.5}
+        - {x: 20.5, y: 31.5}
+    - name: BlueTownv2_byLunarea_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_62
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BlueTownv2_byLunarea_63
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 12
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 20}
+        - {x: -17, y: 20}
+        - {x: -22, y: 14}
+        - {x: -22, y: 6}
+        - {x: -17, y: -9}
+        - {x: -7, y: -20}
+        - {x: 10, y: -20}
+        - {x: 22, y: -6}
+        - {x: 22, y: 9}
+        - {x: 21, y: 16}
     outline: []
   spritePackingTag: 
   userData: 
