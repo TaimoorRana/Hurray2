@@ -7,11 +7,12 @@ public class ChracterController : MonoBehaviour {
     bool facingright = true;
     bool facingleft = false;
     Animator anim;
+    AudioSource audioSource;
 
     // Use this for initialization
     void Start () {
         anim = GetComponent<Animator>();
-	
+		audioSource = GetComponent<AudioSource>();
 	}
 	
 	// Update is called once per frame
@@ -73,6 +74,7 @@ public class ChracterController : MonoBehaviour {
 	void OnCollisionEnter(Collision coll) {
         if (coll.gameObject.tag == "Wire"){
            // Destroy(coll.gameObject); 
+           audioSource.Play();
         }  
     }
 }
