@@ -24,5 +24,9 @@ public class ObstacleExplose : MonoBehaviour {
 
         }
 
+		if (coll.gameObject.tag == "Wire") {
+    		Physics.IgnoreCollision(coll.collider, GetComponent<BoxCollider>());
+        }
+
     }
 }

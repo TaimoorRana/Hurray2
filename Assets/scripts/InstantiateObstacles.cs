@@ -13,7 +13,7 @@ public class InstantiateObstacles : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        float waitTime = Random.Range(5f,10.0f);
+        float waitTime = Random.Range(1f,5.0f);
         
             if (temps>=waitTime)
             {
