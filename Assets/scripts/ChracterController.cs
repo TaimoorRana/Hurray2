@@ -72,7 +72,7 @@ public class ChracterController : MonoBehaviour {
 
 	void OnCollisionEnter(Collision coll) {
         if (coll.gameObject.tag == "Wire"){
-            Destroy(coll.gameObject); 
+           // Destroy(coll.gameObject); 
         }  
     }
 }
