@@ -32,7 +32,6 @@ public class ChracterController : MonoBehaviour {
         anim.SetFloat("speedright", Mathf.Abs(movee));
 
 
-        Debug.Log(Mathf.Abs(move));
 
         if (move != 0)
         {
