@@ -69,4 +69,10 @@ public class ChracterController : MonoBehaviour {
         transform.localScale = thescale; 
        
     }
+
+	void OnCollisionEnter(Collision coll) {
+        if (coll.gameObject.tag == "Wire"){
+            Destroy(coll.gameObject); 
+        }  
+    }
 }
