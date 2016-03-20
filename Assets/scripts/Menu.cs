@@ -19,8 +19,10 @@ public class Menu : MonoBehaviour {
         GameObject.FindWithTag("StartButton").SetActive(false);
         GameObject.FindWithTag("JoinButton").SetActive(false);
         GameObject.FindWithTag("ExitButton").SetActive(false);
-        ExitButton2.gameObject.SetActive(true);
-        PauseButton.gameObject.SetActive(true);
+
+        //ExitButton2.gameObject.SetActive(true);
+        //PauseButton.gameObject.SetActive(true);
+
     }
     public void Pause()
     {
@@ -30,6 +32,13 @@ public class Menu : MonoBehaviour {
         //(Instantiate(RestartButton, RestartButton.transform.position, Quaternion.identity) as GameObject).transform.parent = GameObject.FindWithTag("CanvasUI").transform;
         RestartButton.gameObject.SetActive(true);
 
+    }
+
+    void Update(){
+    	if(Input.GetKeyDown(KeyCode.Escape)){
+			ExitButton2.gameObject.SetActive(true);
+        	PauseButton.gameObject.SetActive(true);
+    	}
     }
     public void Restart()
     {
