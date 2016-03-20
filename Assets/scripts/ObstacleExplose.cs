@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class ObstacleExplose : MonoBehaviour {
-	
+
 	// Use this for initialization
 	void Start () {
 	
@@ -20,8 +20,9 @@ public class ObstacleExplose : MonoBehaviour {
             Debug.Log("explode");
             Vector2 pos1 = coll.gameObject.transform.position;
             GetComponent<Rigidbody>().AddTorque(new Vector3(50f,400f, 650f));
-            GetComponent<Rigidbody>().AddForce(new Vector3(50f, 200f, 950f));
 
+
+            GetComponent<Rigidbody>().AddForce(new Vector3(50f, 200f, 950f));
         }
 
     }
